@@ -12,7 +12,7 @@ import com.eoe.tampletfragment.R;
 
 /**
  * @author yangyu
- *	¹¦ÄÜÃèÊö£º×Ô¶¨Òå¶¥²¿¹¤¾ßÀ¸
+ *	åŠŸèƒ½æè¿°ï¼šè‡ªå®šä¹‰é¡¶éƒ¨å·¥å…·æ 
  */
 public class TitleView extends FrameLayout implements View.OnClickListener {
 

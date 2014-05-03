@@ -11,7 +11,7 @@ import com.eoe.tampletfragment.fragment.FragmentIndicator.OnIndicateListener;
 
 /**
  * @author yangyu
- *	功能描述：主Activity类，继承自FragmentActivity
+ *	鍔熻兘鎻忚堪锛氫富Activity绫伙紝缁ф壙鑷狥ragmentActivity
  */
 public class MainActivity extends FragmentActivity {
 
@@ -28,7 +28,7 @@ public class MainActivity extends FragmentActivity {
 	}
 
 	/**
-	 * 初始化fragment
+	 * 鍒濆鍖杅ragment
 	 */
 	private void setFragmentIndicator(int whichIsDefault) {
 		mFragments = new Fragment[3];

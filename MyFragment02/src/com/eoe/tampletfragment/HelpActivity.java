@@ -6,7 +6,7 @@ import android.view.Window;
 
 /**
  * @author yangyu
- *	功能描述：帮助Activity界面
+ *	鍔熻兘鎻忚堪锛氬府鍔〢ctivity鐣岄潰
  */
 public class HelpActivity extends FragmentActivity {
 

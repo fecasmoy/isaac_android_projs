@@ -14,7 +14,7 @@ import com.eoe.tampletfragment.view.TitleView.OnRightButtonClickListener;
 
 /**
  * @author yangyu
- *	功能描述：设置fragment页面
+ *	鍔熻兘鎻忚堪锛氳缃甪ragment椤甸潰
  */
 public class SettingsFragment extends Fragment {
 	
